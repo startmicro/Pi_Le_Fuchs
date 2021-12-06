@@ -20,3 +20,6 @@ Ich sammle wissentlich keine personenbezogenen Daten.
 Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Es wird daher empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen. Ich werde Sie über Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche.
 Diese Richtlinie gilt ab dem 01.01.2021.
 Wenn Sie Fragen oder Anregungen zu meiner Datenschutzrichtlinie haben, zögern Sie nicht, mich unter zied.mcharek@icloud.com zu kontaktieren
+
+# Support
+zied.mcharek@icloud.com
