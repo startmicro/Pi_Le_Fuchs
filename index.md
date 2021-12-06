@@ -1,6 +1,5 @@
-## Welcome to Pi Le Fuchs 
+## Welcome to Pi Le Fuchs ![HappyPi](https://user-images.githubusercontent.com/9937649/144921296-de59a6fc-bc0f-43c8-acce-8cfbcabd45ec.png)
 
-![HappyPi](https://user-images.githubusercontent.com/9937649/144920711-b6fd950a-1ad9-499e-a331-a2436f8eaba4.png)
 
 # Privacy Policy
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
