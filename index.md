@@ -1,5 +1,7 @@
 ## Welcome to Pi Le Fuchs 
 
+![HappyPi](https://user-images.githubusercontent.com/9937649/144920711-b6fd950a-1ad9-499e-a331-a2436f8eaba4.png)
+
 # Privacy Policy
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
