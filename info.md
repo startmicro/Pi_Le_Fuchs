@@ -11,3 +11,12 @@ die Idee ist während des Lockdownes entstanden. Ich habe gesehen wie Kinder und
 müssten die Eltern Leherer spielen. Für Erstklässler waren sicherlich der Albtraum und das komische viele Eltern haben selbstmotivation, selbständiges Lernen von 
 Ihren Kindern erwartet :-( 
 
+# Anforderung
+Ich habe mir paar andere Apps angeguckt und festgestellt dass große Potenzial vorhanden ist. Hier sind die wichtigsten Anforderung: 
+* es soll offline funktionieren
+* Ohne lästige Werbung
+* Alle Daten beleiben auf dem Gerät
+* Spielerisch aber ernst
+* Die Aufgaben basierend auf dem Schulprogramm
+* Die Aufgaben werden automatisch angepasst
+* Eltern können schnell das Niveau ihres Kindes sehen (Dashboard)
